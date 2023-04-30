@@ -12,6 +12,6 @@ Amaan is arabic word for safety and we aim to work towards the third sustainable
 
 The main file contains our code for the hackthon.
 
-VertexCover.ipynb contains the QAOA (Quantum Alternating Operator Ansatz) implementation for the maximum k-vertex cover problem, which models the selection of safe zones in our zones.
+VertexCover.ipynb contains the QAOA (Quantum Alternating Operator Ansatz) implementation for the maximum k-vertex cover problem, which models the selection of safe zones in the city.
 
 ClassicalCode.ipynb contains the classical brute force implementation for the same problem.
