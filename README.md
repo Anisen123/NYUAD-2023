@@ -11,3 +11,4 @@ March 30 - April 1, 2022
 Amaan is arabic word for safety and we aim to work towards the third sustainable development goal which is good health and well being. During catastrophes and emergencies, our quantum algorithm, based on QAOA, optimizes the placement of scarce resources by minimizing the time for citizens to reach them.
 
 The main file contains our code for the hackthon.
+Vertexco
